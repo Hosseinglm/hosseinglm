@@ -1,7 +1,7 @@
-# 🌟 Hossein G. | Data Engineer | Data Scientist  
+# 🌟 Hossein G. | Data Analyst | Data Scientist  
 **Passionate about crafting scalable solutions and extracting insights from data to drive business value.**
 
-Welcome to my GitHub profile! I specialize in **data engineering**, **machine learning**, and **data science**, with extensive experience in cloud technologies, big data tools, and predictive modeling. Here, you’ll find my projects, research, and contributions to the world of technology and analytics.  
+Welcome to my GitHub profile! I specialize in **data analysis**, and **data science**, with extensive experience in cloud technologies, big data tools, and predictive modeling. Here, you’ll find my projects, research, and contributions to the world of technology and analytics.  
 
 ---
 
